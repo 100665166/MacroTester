@@ -8,3 +8,5 @@ IF CONVERTING MORE THAN ONE FILE:
 
 IF CONVERTING ONLY ONE FILE (optional):
 - Drag .XLSM file onto MacroTester_v1.vbs
+
+NOTE: You must add the folder directory in which the scripts are stored in to the 'Trusted Locations' list in Microsoft Excel's Trust Center in order for the test macro to run.
